@@ -138,5 +138,5 @@ This project aims to:
 
 This CPU Scheduling Simulator is a powerful tool for understanding and comparing different scheduling techniques. It provides detailed execution analysis and helps in learning how modern operating systems manage process scheduling.
 
-If you have any questions or suggestions, feel free to contribute to the project!
+
 
